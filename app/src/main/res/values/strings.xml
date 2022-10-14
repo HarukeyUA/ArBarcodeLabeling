@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ar Barcode Labeling</string>
+    <string name="barcode_ar_hit_not_found">New barcode scanned but couldn\'t anchor it, try moving phone around a bit</string>
+</resources>
